@@ -1,6 +1,6 @@
 # CUDA Neural Network for MNIST Classification
 
-A high-performance neural network implementation using CUDA and cuBLAS for MNIST digit classification. This project demonstrates GPU-accelerated deep learning and achieves 97.5% accuracy on the MNIST test set.
+A high-performance neural network implementation using CUDA and cuBLAS for MNIST digit classification. This project demonstrates GPU-accelerated deep learning and achieves 97.5% accuracy on the MNIST test set and 98.5% accuracy on the training set.
 
 ## Architecture
 
